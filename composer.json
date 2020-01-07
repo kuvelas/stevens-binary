@@ -1,0 +1,13 @@
+{
+    "name": "kuvelas/stevens-binary",
+    "authors": [
+        {
+            "name": "Mike Kuvelas",
+            "email": "kuvelas@gmail.com"
+        }
+    ],
+    "require": {},
+		"config": {
+			"bin-dir": "bin"
+		}
+}
